@@ -6,7 +6,7 @@
   "homepage": "https://ssorallen.github.io/finance/",
   "dependencies": {
     "@vx/axis": "^0.0.162",
-    "@vx/gradient": "^0.0.161",
+    "@vx/gradient": "^0.0.199",
     "@vx/group": "^0.0.161",
     "@vx/scale": "^0.0.161",
     "@vx/shape": "^0.0.162",
