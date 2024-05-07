@@ -1495,6 +1495,13 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
+"@types/classnames@^2.2.9":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@types/classnames/-/classnames-2.3.1.tgz#3c2467aa0f1a93f1f021e3b9bcf938bd5dfdc0dd"
+  integrity sha512-zeOWb0JGBoVmlQoznvqXbE0tEC/HONsnoUNH19Hc96NFsTAwTXbTqb8FMYkru1F/iqp7a18Ws3nWJvtA1sHD1A==
+  dependencies:
+    classnames "*"
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
@@ -1665,12 +1672,22 @@
     classnames "^2.2.5"
     prop-types "^15.5.7"
 
-"@vx/group@0.0.161", "@vx/group@^0.0.161":
+"@vx/group@0.0.161":
   version "0.0.161"
   resolved "https://registry.yarnpkg.com/@vx/group/-/group-0.0.161.tgz#497a19c2a458dd5ff6fd59e3cd79933dbf184156"
   integrity sha512-C7onWRz8oXouLZRaUsIWHttA8ZpSfGuql+3jVsFpc4zDAeO2uCWdNJGGmqJWPJOF7mxSTTLnNlV2dmiZJIT3Zw==
   dependencies:
     classnames "^2.2.5"
+
+"@vx/group@^0.0.199":
+  version "0.0.199"
+  resolved "https://registry.yarnpkg.com/@vx/group/-/group-0.0.199.tgz#167410a83c83aa2011f6e7cabafd68ed5659c690"
+  integrity sha512-QSHHQn1a5z9H/vrZP8FIlJTznWjuyDcloXU/1jocf1FL9BxWV7RErvZ/IBWr+bIZVXLZXUpfVpX9JMry+eESIg==
+  dependencies:
+    "@types/classnames" "^2.2.9"
+    "@types/react" "*"
+    classnames "^2.2.5"
+    prop-types "^15.6.2"
 
 "@vx/point@0.0.161":
   version "0.0.161"
@@ -2928,6 +2945,11 @@ class-utils@^0.3.5:
     define-property "^0.2.5"
     isobject "^3.0.0"
     static-extend "^0.1.1"
+
+classnames@*:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.5.1.tgz#ba774c614be0f016da105c858e7159eae8e7687b"
+  integrity sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==
 
 classnames@^2.2.3, classnames@^2.2.5:
   version "2.2.6"
