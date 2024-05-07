@@ -5,7 +5,7 @@
   "author": "Ross Allen (https://github.com/ssorallen)",
   "homepage": "https://ssorallen.github.io/finance/",
   "dependencies": {
-    "@vx/axis": "^0.0.162",
+    "@vx/axis": "^0.0.199",
     "@vx/gradient": "^0.0.161",
     "@vx/group": "^0.0.161",
     "@vx/scale": "^0.0.161",
