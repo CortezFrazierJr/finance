@@ -9,7 +9,7 @@
     "@vx/gradient": "^0.0.161",
     "@vx/group": "^0.0.161",
     "@vx/scale": "^0.0.161",
-    "@vx/shape": "^0.0.162",
+    "@vx/shape": "^0.0.199",
     "bootstrap": "^4.1.1",
     "classnames": "^2.2.5",
     "csv-parse": "^4.4.6",
